@@ -2,9 +2,10 @@ Package: packagetest
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Author: Qusizzle the one and only hard mofo
+Maintainer: Qusizzle <westcoast@power.net>
+Description: This project is fo da realist homies in da world, what are you thinking if not that. this is a test, so calm down man
+    More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
 Encoding: UTF-8
